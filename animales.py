@@ -11,7 +11,8 @@ def mostrar_animales():
 	"Mosquito",
         "serpiente",
 	"Toro",
-	"Lobo"
+	"Lobo",
+	"Jirafa"
     ]
     for a in animales:
         print("Animal:", a)
